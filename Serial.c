@@ -1,10 +1,4 @@
-/******************************************************************************/
-/* SERIAL.C:                                      */
-/******************************************************************************/
-/* This file is part of the RhydoLabz development kit.                    */
-/* Copyright (c) 2005-2006 Rhydo Software. All rights reserved.                */
-/* written to run with keil uvision 3v3.53 demo software.                     */
-/******************************************************************************/
+
 
 #include <LPC213x.H>                     /* LPC21xx definitions               */
 #include "serial.h" 
